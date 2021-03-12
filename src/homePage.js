@@ -3,7 +3,8 @@ function loadHomePage() {
     let main = document.createElement('div');
     main.id = 'main';
     main.style.textAlign = 'center';
-    main.innerHTML = 'Welcome to the number 1<br />restaurant in the world!';
+    main.innerHTML = 'Welcome to the Restaurant Page!<br />';
+    main.innerHTML += 'Created from the Odin Project.'
 
     // Apend
     content.appendChild(main);

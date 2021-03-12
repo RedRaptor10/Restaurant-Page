@@ -12,7 +12,12 @@ function loadMenuPage() {
         'Ham',
         'Eggs',
         'Soup',
-        'Fish'
+        'Fish',
+        'Burger',
+        'Pizza',
+        'Taco',
+        'Hot Dog',
+        'Sandwhich'
     ];
 
     menuList.forEach((item) => {
